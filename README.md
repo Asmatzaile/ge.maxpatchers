@@ -1,2 +1,2 @@
-# ge.maxpatchers
+# ge.maxpatches
 A collection of MaxMSP abstractions
